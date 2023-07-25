@@ -1,0 +1,42 @@
+
+.conteudo {
+
+    margin-top: 60px;
+    display: flex;
+    background: linear-gradient(white, gray);   
+    padding: 10%;
+}
+
+
+
+.sobre {
+
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px; 
+    text-shadow: 2px 4px 5px gray;
+
+
+}
+
+.biografia {
+    margin-left: 20%;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 6%;
+    margin-right: 10%;
+    font-size: 25px; 
+
+    vertical-align: middle;
+}
+
+.img{
+
+    margin-right: 10%;
+    border-radius: 100px;
+    border-color: black;
+    width: 400px;
+    height: 450px;    
+}
+
+
+

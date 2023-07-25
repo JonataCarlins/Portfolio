@@ -1,0 +1,24 @@
+.texto {
+    font-size:125px
+
+
+}
+.t1 {
+    margin-top: 300px;
+    margin-left: 25%;
+    font-family: bungee;
+    font-size: 100px;
+}
+
+.t2 {
+    margin-top: 30px;
+    margin-left: 45%;
+    font-family: bungee;
+    font-size: 100px;
+}
+
+.redes {
+    display: flex;
+    margin-top: -60px;
+    margin-left: 67%;
+}
